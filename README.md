@@ -1,7 +1,5 @@
 # Next.js Starter Project
 
-# Next.js Starter Project
-
 ![Next.js](https://img.shields.io/badge/Next.js-14-blue?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-blue?logo=tailwindcss)
