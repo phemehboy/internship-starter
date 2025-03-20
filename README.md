@@ -106,27 +106,11 @@ internship-starter/
 **next.config.js: Next.js configuration.
 **tsconfig.json: TypeScript configuration.
 
-Contributing
+## Contributing
 
-Contributions are welcome! Please follow these steps:
+We welcome contributions from everyone, especially internship students!
 
-1.  Fork the repository.
-
-2.  Create a new branch:
-
-git checkout -b feature/YourFeatureName
-
-3.  Make your changes.
-
-4.  Commit your changes:
-
-git commit -m 'Add some feature'
-
-5.  Push to the branch:
-
-git push origin feature/YourFeatureName
-
-6.  Open a pull request.
+Please read our [Contributing Guide](./CONTRIBUTING.md) for step-by-step instructions on how to contribute to this project.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
