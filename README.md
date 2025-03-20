@@ -1,5 +1,16 @@
 # Next.js Starter Project
 
+# Next.js Starter Project
+
+![Next.js](https://img.shields.io/badge/Next.js-14-blue?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-blue?logo=tailwindcss)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue)
+
+---
+
 Welcome to the Next.js Starter Project! This repository serves as a foundational template for building scalable and high-performance web applications using Next.js.
 
 ## Table of Contents
